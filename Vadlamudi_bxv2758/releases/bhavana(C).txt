@@ -1,0 +1,16 @@
+Global Commit Done 
+
+what are some problems faced by people?   king(P)   COMMIT
+
+what are some problems faced by people?   queen(P)   COMMIT
+
+what are some problems faced by people?   smith(P)   COMMIT
+
+Global Commit Done 
+
+did you like bahubali   minister(P)   COMMIT
+
+did you like bahubali   king(P)   COMMIT
+
+did you like bahubali   queen(P)   COMMIT
+
